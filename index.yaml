@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab06:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-04-03T08:59:05.4844203+09:00
+    description: A Helm chart for Kubernetes
+    digest: 73fb1d0679c1a814b0897297c131d239049129bb48d6263d7aec237c2b8e8b99
+    name: eventapp-lab06
+    urls:
+    - https://ysmjik0526.github.io/mycharts/eventapp-lab06-0.1.0.tgz
+    version: 0.1.0
+generated: 2020-04-03T08:59:05.4774215+09:00
